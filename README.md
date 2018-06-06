@@ -6,4 +6,4 @@ Hi, World,
 
 Michael is here. I am learning data analytics and data science
 
-Majoy language is python.
+Major language is python.
