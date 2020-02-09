@@ -1,13 +1,12 @@
 # hello-world
-start to use github to manage my file
-
 
 Hi, World,
 
 Michael is here. I am learning data analytics and data science. And also ETL( since 2020)
 
-Major language is python.
+was product engineer. Now is the business intelligence developer.
 
+Major language is python, SQL.
 
-Current is also 2020 Georgia Institute of Technology master in analytics student. 
+ is also 2020 Georgia Institute of Technology master in analytics student. 
 
