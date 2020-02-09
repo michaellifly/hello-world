@@ -9,5 +9,5 @@ Michael is here. I am learning data analytics and data science. And also ETL( si
 Major language is python.
 
 
-Current is also 2020 Geogita tech master in analytics student. 
+Current is also 2020 Georgia Institute of Technology master in analytics student. 
 
